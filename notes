@@ -1,0 +1,7 @@
+* incrementally connect player and update dict of player to connected component
+* after each update check if each group of players has some connected component
+
+data structures
+---------------
+* dict of player -> connected component
+* dict of gamoe -> players
