@@ -4,4 +4,4 @@
 data structures
 ---------------
 * dict of player -> connected component
-* dict of gamoe -> players
+* dict of game -> players
